@@ -6,3 +6,10 @@ Reading Data
 	b) Positional Index - .iloc
 
 Handling missing data 
+- Ignore them
+- Assign Average Values 
+- 
+
+
+Libraries 
+- Scikit-learn
